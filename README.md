@@ -98,8 +98,8 @@ The dataset includes:
 
 ##  Project Files
 
-* `sales_dashboard.xlsx` → Excel dashboard file
-* `dashboard preview.png` → Dashboard preview image
+* `sales dashboard.xlsx` → Excel dashboard file
+* `dashboard_preview.png` → Dashboard preview image
 
 ---
 
