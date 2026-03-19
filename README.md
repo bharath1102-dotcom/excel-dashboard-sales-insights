@@ -99,7 +99,7 @@ The dataset includes:
 ##  Project Files
 
 * `sales_dashboard.xlsx` → Excel dashboard file
-* `dashboard.png` → Dashboard preview image
+* `dashboard preview.png` → Dashboard preview image
 
 ---
 
