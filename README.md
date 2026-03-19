@@ -1,10 +1,10 @@
 1. KPI Summary Cards
 
-Total Sales: ₹51,38,670
+   Total Sales: ₹51,38,670
 
-Total Orders: 120
+   Total Orders: 120
 
-Average Order Value: ₹42,822.25
+   Average Order Value: ₹42,822.25
 
 Total Discount: ₹4,30,130
 
