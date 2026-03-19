@@ -31,7 +31,7 @@ The dataset includes:
 
 ##  Dashboard Features
 
-### 🔹 Key Performance Indicators (KPIs)
+###  Key Performance Indicators (KPIs)
 
 * Total Sales: ₹51,38,670
 * Total Orders: 120
